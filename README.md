@@ -1,5 +1,31 @@
 # Additional-Training
 
+# Practice!
+<ul>
+  <li><a href=" https://www.hackerrank.com">Get some stars on Hackerrank</a></li>
+  <li><a href="https://www.evernote.com/shard/s386/u/0/sh/9e67cab7-80db-4063-a9d0-71c0843585e2/55cc09d8068a125c3928ade03c21ada8">Project Ideas</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+# Worth Reading
+<ul>
+
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+# (Mostly Free!) Online Courses:
+<ul>
+  <li><a href="https://www.classcentral.com/">Class central</a></li>
+</ul>
+
 # Advanced Javascript
 <ul>
    <li><a href="https://www.evernote.com/shard/s386/u/0/sh/83488e7b-cf55-43f3-8403-0e48cdb776e6/66773698f685b6f3b34cba22060b0b1e">10 Interview Questions Every JavaScript Developer Should Know</a></li>

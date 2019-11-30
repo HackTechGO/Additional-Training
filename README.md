@@ -7,7 +7,7 @@
   <li><a href=""></a></li>
 </ul>
 
-# Worth Reading
+# Reading
 <ul>
   <li><a href="https://www.evernote.com/shard/s386/u/0/sh/20b398fc-e1ac-464a-b5b9-1ea3ad5c8a56/e20695f410c579e1db25367b02367ce0">Dividing frontend from backend is an antipattern</a></li>
   <li><a href="https://frontendmasters.com/books/front-end-handbook/2019/">Front-end Developer Handbook 2019</a></li>

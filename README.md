@@ -1,8 +1,8 @@
 # Additional-Training
 
-# Reading
+# Must Read
 <ul>
-  <li><a href="https://www.evernote.com/shard/s386/u/0/sh/b936b150-d053-4389-8a07-3b08be772955/424a7a529cfd14d7c548951aeeabf0d7">Developer Roadmaps</a></li>
+  <li>Check <a href="https://github.com/HackTechGO/developer-roadmap"></a>, or read <a href="https://www.evernote.com/shard/s386/u/0/sh/b936b150-d053-4389-8a07-3b08be772955/424a7a529cfd14d7c548951aeeabf0d7">Developer Roadmaps</a> for details</li>
   <li><a href="https://www.evernote.com/shard/s386/u/0/sh/20b398fc-e1ac-464a-b5b9-1ea3ad5c8a56/e20695f410c579e1db25367b02367ce0">Dividing frontend from backend is an antipattern</a></li>
   <li><a href="https://frontendmasters.com/books/front-end-handbook/2019/">Front-end Developer Handbook 2019</a></li>
   <li><a href="https://www.evernote.com/shard/s386/u/0/sh/2a605232-7e46-45c3-896a-6b909c7c3840/efff9d39ce9144828fd2b8a1dc7f00b2">Learn to become a Backend Developer</a></li>
